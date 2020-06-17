@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d425e8f-32a8-4efa-8527-702bea1370c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YA9u8Pa8Nm0vdoazpQR1oSEQle" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gems-Seperator" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.__main__">
+    <configuration name="Image_Capture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gems_Seperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Capture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gems_Seperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Gems_Seperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gems_Seperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python">
+      <module name="Gems_Seperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_Main_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ehyrhyeh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gems_Seperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ehyrhyeh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Login" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Image_Capture" />
+        <item itemvalue="Python.ehyrhyeh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d425e8f-32a8-4efa-8527-702bea1370c0" name="Default Changelist" comment="" />
+      <created>1582374751529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582374751529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="215" width="800" height="684" key="#Inspections" timestamp="1588151449553">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="215" width="800" height="684" key="#Inspections/0.27.1920.1053@0.27.1920.1053" timestamp="1588151449553" />
+    <state x="715" y="121" width="641" height="803" key="#_Main_" timestamp="1588151493320">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="715" y="121" width="641" height="803" key="#_Main_/0.27.1920.1053@0.27.1920.1053" timestamp="1588151493320" />
+    <state x="634" y="155" width="641" height="803" key="#__main__" timestamp="1588151517406">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="155" width="641" height="803" key="#__main__/0.27.1920.1053@0.27.1920.1053" timestamp="1588151517406" />
+    <state x="418" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588151663645">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588151663645" />
+    <state x="743" y="288" width="424" height="521" key="FileChooserDialogImpl" timestamp="1592403187040">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="288" width="424" height="521" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1592403187040" />
+    <state width="1897" height="158" key="GridCell.Tab.0.bottom" timestamp="1591358493318">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="2" key="GridCell.Tab.0.bottom/0.27.1920.1020@0.27.1920.1020" timestamp="1585889646854" />
+    <state width="1897" height="158" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1591358493318" />
+    <state width="1897" height="158" key="GridCell.Tab.0.center" timestamp="1591358493317">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.center/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="2" key="GridCell.Tab.0.center/0.27.1920.1020@0.27.1920.1020" timestamp="1585889646853" />
+    <state width="1897" height="158" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1591358493317" />
+    <state width="1897" height="158" key="GridCell.Tab.0.left" timestamp="1591358493317">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.left/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="2" key="GridCell.Tab.0.left/0.27.1920.1020@0.27.1920.1020" timestamp="1585889646852" />
+    <state width="1897" height="158" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1591358493317" />
+    <state width="1897" height="158" key="GridCell.Tab.0.right" timestamp="1591358493318">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.0.right/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="2" key="GridCell.Tab.0.right/0.27.1920.1020@0.27.1920.1020" timestamp="1585889646853" />
+    <state width="1897" height="158" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1591358493318" />
+    <state width="1897" height="340" key="GridCell.Tab.1.bottom" timestamp="1591210967126">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.1.bottom/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="340" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1591210967126" />
+    <state width="1897" height="340" key="GridCell.Tab.1.center" timestamp="1591210967125">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.1.center/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="340" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1591210967125" />
+    <state width="1897" height="340" key="GridCell.Tab.1.left" timestamp="1591210967125">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.1.left/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="340" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1591210967125" />
+    <state width="1897" height="340" key="GridCell.Tab.1.right" timestamp="1591210967126">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="327" key="GridCell.Tab.1.right/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914849654" />
+    <state width="1897" height="340" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1591210967126" />
+    <state x="449" y="177" width="1022" height="737" key="SettingsEditor" timestamp="1591278506269">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="172" key="SettingsEditor/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583914668292" />
+    <state x="449" y="172" width="1022" height="737" key="SettingsEditor/0.27.1920.1020@0.27.1920.1020" timestamp="1587486567751" />
+    <state x="449" y="177" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1591278506269" />
+    <state x="620" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1588151404971">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="620" y="364" key="com.intellij.ide.util.TipDialog/0.27.1920.1020/1920.0.1024.768@0.27.1920.1020" timestamp="1583910951724" />
+    <state x="620" y="364" key="com.intellij.ide.util.TipDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1587486458822" />
+    <state x="620" y="375" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588151404971" />
+  </component>
+</project>
