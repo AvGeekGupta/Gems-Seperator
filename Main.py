@@ -81,7 +81,7 @@ class StartEngineProcess(threading.Thread):
             Arduino.print_colour(colour)
             ColourCount[colour] += 1
             ColourCount[6] += 1
-            time.sleep(2)
+            time.sleep(4)
             root.update()
 
     def stop(self):
@@ -407,7 +407,7 @@ class Main:
         pink = np.array(Login.MySQL.getcolor("pink"))
         red = np.array(Login.MySQL.getcolor("red"))
         yellow = np.array(Login.MySQL.getcolor("yellow"))
-        for i in range(0, 10):
+        for i in range(0, 10000):
             for j in range(0, blue.shape[0]):
                 ColourDetection.train(blue[j], 1)
             for j in range(0, brown.shape[0]):
@@ -429,7 +429,12 @@ class Main:
         ColourInput()
 
     def start_engine_button_click(self):
-        self.start_engine_process.start()
+        colour_code = ClickPicture.click_image()
+        colour = ColourDetection.think(colour_code)
+        Login.MySQL.writecolor(colour_code, colour)
+        Arduino.print_colour(colour)
+        ColourCount[colour] += 1
+        ColourCount[6] += 1
 
     def stop_engine_button_click(self):
         self.start_engine_process.stop()

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d425e8f-32a8-4efa-8527-702bea1370c0" name="Default Changelist" comment="" />
+    <list default="true" id="1d425e8f-32a8-4efa-8527-702bea1370c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hardware/Driver/Driver.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Hardware/Driver/Driver.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YA9u8Pa8Nm0vdoazpQR1oSEQle" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +30,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gems-Seperator" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gems_Seperator" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -192,10 +201,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="418" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588151663645" />
-    <state x="743" y="288" width="424" height="521" key="FileChooserDialogImpl" timestamp="1592403187040">
+    <state x="743" y="288" width="424" height="521" key="FileChooserDialogImpl" timestamp="1592547812162">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="288" width="424" height="521" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1592403187040" />
+    <state x="743" y="288" width="424" height="521" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1592547812162" />
     <state width="1897" height="158" key="GridCell.Tab.0.bottom" timestamp="1591358493318">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

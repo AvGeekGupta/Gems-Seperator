@@ -13,4 +13,4 @@ class SerialCommunication:
         self.serial_communication = serialcommunication.Serial(communication_port, baud_rate)
 
     def print_colour(self, colour):
-        self.serial_communication.write(colour)
+        self.serial_communication.write(str.encode(str(colour)))

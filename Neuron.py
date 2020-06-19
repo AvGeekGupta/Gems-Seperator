@@ -4,17 +4,17 @@
 
 
 import numpy as np
-
+import scipy.special
 
 class Neuron:
     def __init__(self, red_component=0.0, green_component=0.0, blue_component=0.0):
         self.synaptic_weight = np.array([[red_component,
                                          green_component,
                                          blue_component]])
-        self.error = 0.0
+        self.error = [[0.0]]
 
     def activation_function(self, x):
-        return 1 / (1 + np.exp(-x))
+        return 1 / (1 + scipy.special.expit(-x))
 
     def activation_function_derivative(self, x):
         return self.activation_function(x) * (1 - self.activation_function(x))
