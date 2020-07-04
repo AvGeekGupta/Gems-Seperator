@@ -9,10 +9,8 @@ Colour sorters are highly usable in big industries for separating items accordin
 # WORKING
 The main software which is a Python application clicks a picture and crops it to the specific size of a gem as per it’s needs. The colour of the gem is extracted and is converted into the RGB format. After sending the information to the neural network, the exact colour is determined which is provided to the GUI. The main loop informs the Arduino through serial communication, ultimately dropping the gem in the assigned box according to the output of the software.
 
-![Neural Network](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Pictures/Neural%20Network.png)
 
 # Technical Dependencies
-- Operating System - RedHat Fedora 30 (Linux)
 - Operating System – RedHat Fedora 30 (Linux).
 - Languages – Python3, C/C++, SQL.
 - Database – MySQL.
@@ -25,10 +23,6 @@ The main software which is a Python application clicks a picture and crops it to
 3. [Project Poster](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Poster.png)
 
 # OWNER
-- Utkarsh Gupta
-- Vanshaj Goel
-- Tanya Malhotra
-
-
-
-
+- [Utkarsh Gupta](https://www.linkedin.com/in/avgeekgupta/)
+- [Vanshaj Goel](https://www.linkedin.com/in/vanshaj-goel-593833163/)
+- [Tanya Malhotra](https://www.linkedin.com/in/tanya-malhotra-0999001a9/)
