@@ -1,5 +1,6 @@
 # Gem Sorting Machine 
 Based on Image Processing and powered by Artificial Intelligence.
+
 **Aim -** To replicate a small scale machine that can differentiate similar objects using image recognition. In this particular case, colour detection.
 
 # DESCRIPTION
@@ -15,6 +16,11 @@ The main software which is a Python application clicks a picture and crops it to
 - Database – MySQL.
 - Software used – JetBrain’s PyCharm, Oracle’s MySQL, PAGE.
 - Dependencies – OpenCV, SerialCommunication, SciPy, NumPy, Tkinter, MySQL.
+
+# For more details, refer to
+1. [Project Report]()
+2. [Project Presentation]()
+3. [Project Poster]()
 
 # OWNER
 - Utkarsh Gupta
