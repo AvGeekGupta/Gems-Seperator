@@ -20,9 +20,9 @@ The main software which is a Python application clicks a picture and crops it to
 - Dependencies – OpenCV, SerialCommunication, SciPy, NumPy, Tkinter, MySQL.
 
 # For more details, refer to
-1. [Project Report]()
-2. [Project Presentation]()
-3. [Project Poster]()
+1. [Project Report](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Project%20Report.pdf)
+2. [Project Presentation](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Presentation.pdf)
+3. [Project Poster](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Poster.png)
 
 # OWNER
 - Utkarsh Gupta
