@@ -1,5 +1,5 @@
 # Gem Sorting Machine 
-Based on Image Processing and powered by Artificial Intelligence.
+### Based on Image Processing and powered by Artificial Intelligence.
 
 **Aim -** To replicate a small scale machine that can differentiate similar objects using image recognition. In this particular case, colour detection.
 
