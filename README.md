@@ -1,6 +1,6 @@
 # Gem Sorting Machine 
-
-## Based on Image Processing and powered by Artificial Intelligence
+Based on Image Processing and powered by Artificial Intelligence.
+**Aim -** To replicate a small scale machine that can differentiate similar objects using image recognition. In this particular case, colour detection.
 
 # DESCRIPTION
 Colour sorters are highly usable in big industries for separating items according to their colour and in filtering the things which do not fall within the acceptable criteria or which are desired by the user. Similarly, gem sorting machine is highly functional on a smaller scale. Using image recognition, the particular colour of multi-coloured gems can be detected with a great user interface.
