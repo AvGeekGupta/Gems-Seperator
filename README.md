@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# AIM
+**Gem Sorting Machine** 
 
-You can use the [editor on GitHub](https://github.com/500075374/Gems-Seperator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*(Based on Image Processing and powered by Artificial Intelligence)*
+# DESCRIPTION
+Colour sorters are highly usable in big industries for separating items according to their colour and in filtering the things which do not fall within the acceptable criteria or which are desired by the user. Similarly, gem sorting machine is highly functional on a smaller scale. Using image recognition, the particular colour of multi-coloured gems can be detected with a great user interface.
+# WORKING
+The main software which is a Python application clicks a picture and crops it to the
+specific size of a gem as per it’s needs. The colour of the gem is extracted and is
+converted into the RGB format. After sending the information to the neural network,
+the exact colour is determined which is provided to the GUI. The main loop informs
+the Arduino through serial communication, ultimately dropping the gem in the
+assigned box according to the output of the software.
+# DEPENDENCIES
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# OWNER
+- Utkarsh Gupta
+- Vanshaj Goel
+- Tanya Malhotra
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/500075374/Gems-Seperator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
