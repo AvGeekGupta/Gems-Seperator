@@ -24,10 +24,11 @@ The main software which is a Python application clicks a picture and crops it to
 
 # For more details, refer to
 1. [Project Report](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Project%20Report.pdf)
-2. [Project Presentation](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Presentation.pdf)
-3. [Project Poster](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Poster.png)
+2. [Project Architecture](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Project%20Architecture.pdf)
+3. [Project Presentation](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Presentation.pdf)
+4. [Project Poster](https://github.com/AvGeekGupta/Gems-Seperator/blob/master/Documents/Poster.png)
 
-# OWNER
+# OWNERS
 - [Utkarsh Gupta](https://www.linkedin.com/in/avgeekgupta/)
 - [Vanshaj Goel](https://www.linkedin.com/in/vanshaj-goel-593833163/)
 - [Tanya Malhotra](https://www.linkedin.com/in/tanya-malhotra-0999001a9/)
