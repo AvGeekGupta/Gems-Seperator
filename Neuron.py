@@ -1,8 +1,6 @@
 # File Name - Neuron.py
 # Created by Utkarsh Gupta
 ##########################
-
-
 import numpy as np
 import scipy.special
 
